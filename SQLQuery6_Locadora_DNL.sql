@@ -14,3 +14,5 @@ INSERT INTO Cliente (Nome, CPF, idVeiculos)
 VALUES				('Paulo',87634826302, 1)
 					,('Cesar', 09736462312, 2)
 					,('Everaldo', 09364632632, 3);
+
+
